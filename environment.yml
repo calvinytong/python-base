@@ -1,0 +1,13 @@
+name: dev-env
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - numpy
+  - scipy
+  - jupyter
+  - jupyterlab
+  - matplotlib
+  - pip
+  - pip:
+    - Bpython
