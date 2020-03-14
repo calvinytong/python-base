@@ -1,5 +1,5 @@
 # python-base
-Basic python repository for this post. Creates a basic conda environment to run
+Basic python repository for this [post](https://calvintong.com/2020/03/14/on-scientific-python-best-practices/). Creates a basic conda environment to run
 a placeholder script.
 
 ### Installation
